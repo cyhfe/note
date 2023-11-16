@@ -1,0 +1,66 @@
+{
+  // "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "workbench.iconTheme": "vscode-icons",
+  // 括号颜色配对
+  "editor.bracketPairColorization.enabled": true,
+  "editor.fontFamily": "Consolas, 'Courier New', monospace",
+  // 命令行字体
+  "terminal.integrated.cursorStyleInactive": "underline",
+  //格式化
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[less]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[markdown]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  // 保存时格式化
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "editor.tabSize": 2,
+  "editor.suggestSelection": "first",
+  "emmet.triggerExpansionOnTab": true,
+  "prettier.semi": true,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "prettier.requireConfig": false,
+  // 单击文件打开新页
+  "workbench.editor.enablePreview": false,
+  "workbench.list.openMode": "singleClick",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
+  "workbench.colorTheme": "Winter is Coming (Dark Blue - No Italics)",
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.associations": {
+    "*.jsx": "javascriptreact"
+  },
+  "git.autofetch": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "css.lint.unknownAtRules": "ignore",
+  "editor.inlineSuggest.enabled": true,
+  "workbench.startupEditor": "none",
+  "editor.linkedEditing": true,
+  "aws.telemetry": false,
+  "tabnine.experimentalAutoImports": true
+}

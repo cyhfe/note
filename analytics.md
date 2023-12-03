@@ -1,0 +1,1 @@
+[https://support.google.com/analytics/answer/12159447?hl=en&ref_topic=12156336&sjid=2917131795517946282-AP&visit_id=638371861996488053-1462822495&rd=1](https://support.google.com/analytics/answer/12159447?hl=en&ref_topic=12156336&sjid=2917131795517946282-AP&visit_id=638371861996488053-1462822495&rd=1)
